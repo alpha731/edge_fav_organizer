@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# pyenv
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated outputs (user-specific)
+organized_bookmarks.html
+report.md
+
+# Input bookmarks (user-specific, potentially large)
+favorites*.html
+bookmarks*.html
